@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @afrinfarha
+- 👀 I’m interested in .Net, MVC, Java, MS SQL Server
+- 🌱 I’m currently learning Algorithms, Data Structures
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me https://www.linkedin.com/in/farha-afrin-5b045716b/
